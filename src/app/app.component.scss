@@ -1,0 +1,10 @@
+form{
+  display: flex;
+  .left{
+    margin-right: 30px;
+  }
+
+  .left,.right{
+    border: 1px solid black;
+  }
+}
